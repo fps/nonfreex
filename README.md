@@ -1,6 +1,6 @@
-# nonfruix
+# nonfreex
 
-Nonfree software packaged for a distribution that sounds like "geeks". We'll use "geeks" as a placeholder for the other project's name. The pronounciation of this repository is similar: "nonfreeks". 
+Nonfree software packaged for a distribution that sounds like "geeks". We'll use "geeks" as a placeholder for the other project's name.
 
 # How to use it? 
 
